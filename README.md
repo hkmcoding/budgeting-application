@@ -1,5 +1,6 @@
 # budgeting-application
 A budgeting app used to review and improve on my JS skills (ES5)
+Check it out at https://hmujib.github.io/budgeting-application/
 
 # Note
 I was originally going to clean up my comments and commit a "polished" version of the project but I decided to leave in the comments as they may be helpful to someone or even me in the future. 
